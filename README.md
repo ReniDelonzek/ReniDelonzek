@@ -7,6 +7,23 @@ My name is Reni Delonzek, I love technology and am currently working with Flutte
 
 ... In Progress 👨‍💻
 
+
+
+
+
+<table border="0" style="background-color: transparent">
+  <tr>
+    <td>
+      
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReniDelonzek&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)      
+    </td>
+    <td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReniDelonzek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        
+    </td>
+    </tr> 
+
+
 <!--
 **ReniDelonzek/ReniDelonzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
