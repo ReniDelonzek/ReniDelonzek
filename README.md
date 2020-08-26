@@ -5,6 +5,11 @@
 My name is Reni Delonzek, I love technology and am currently working with Flutter/Dart 💙
 
 
+- 🌱 I’m currently learning about Docker
+- 🤔 I’m looking for help with Hasura in AWS
+- 💬 Ask me about Mobile Developer Java/Kotlin/Swift, including Flutter/Dart
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/reni-delonzek-110378115/">Linkedin</a>
+
 ... In Progress 👨‍💻
 
 
