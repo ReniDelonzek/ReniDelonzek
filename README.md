@@ -7,7 +7,7 @@ My name is Reni Delonzek, I love technology and am currently working with Flutte
 
 - 🌱 I’m currently learning about NLP
 - 💬 Ask me about Mobile Developer Java/Kotlin/Swift, including Flutter/Dart
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/reni-delonzek-110378115/">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/reni-delonzek/">Linkedin</a>
 
 ... In Progress 👨‍💻
 
