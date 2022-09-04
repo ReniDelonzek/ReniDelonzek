@@ -9,10 +9,6 @@ My name is Reni Delonzek, I love technology and am currently working with Flutte
 - 💬 Ask me about Mobile Developer Java/Kotlin/Swift, including Flutter/Dart
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/reni-delonzek/">Linkedin</a>
 
-... In Progress 👨‍💻
-
-
-
 
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
