@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/reni-delonzek-110378115/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renidelonzek@gmail.com)](mailto:renidelonzek@gmail.com)
 
-My name is Reni Delonzek, I love technology and am currently working with Flutter/Dart 💙
+My name is Reni Delonzek, I love technology and I am currently working with Flutter/Dart 💙
 
 
 - 🌱 I’m currently learning about NLP
