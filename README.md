@@ -5,7 +5,7 @@
 My name is Reni Delonzek, I love technology and I am currently working with Flutter/Dart 💙
 
 
-- 🌱 I’m currently learning about NLP
+- 🌱 I’m currently learning about Facebook API
 - 💬 Ask me about Mobile Developer Java/Kotlin/Swift, including Flutter/Dart
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/reni-delonzek/">Linkedin</a>
 
@@ -23,9 +23,37 @@ My name is Reni Delonzek, I love technology and I am currently working with Flut
     </tr> 
 
 
+**Portifólio**  
+Principais sistemas contruídos
+
+**Inspeção e Agendamento**
+- Aplicativo contruído de maneira solidária no início da pandemia, auxiliando a área de saúde na triagem e controle do fluxo de pessoas, além de oferecer maneiras de agendamento de horários em estabelecimentos comerciais.
+
+[Link para loja](https://play.google.com/store/apps/details?id=br.com.aynova.controle_inspecao)
+
+**UniPrint**
+- Sistema construído como trabalho acadêmico com o objetivo de digitalizar o processo de solicitação de impressão de documentos nas imediações do centro universitário.
+
+Aplicativo para clientes
+[GitHub](https://github.com/ReniDelonzek/uniprint)
+
+Sistema de gestão
+[GitHub](https://github.com/ReniDelonzek/uniprint_gestao)
+
+
+**Frase da semana**
+- Aplicativo feito para a empresa Pormade durante estágio do curso com o intuito de ser uma ferramenta de comunicação com os colaboradores da empresa
+
+[Link para loja](https://play.google.com/store/apps/details?id=br.com.pormade.frase_da_semana)
+
+
+**Delivery**
+- Aplicativo contruído com intuito de estudos e aprofundamento de conhecimentos com Android/Java, consumindo dados a partir de fontes externas (Firebase).
+
+[GitHub](https://github.com/ReniDelonzek/Delivery-Food)
+
 <!--
 **ReniDelonzek/ReniDelonzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
