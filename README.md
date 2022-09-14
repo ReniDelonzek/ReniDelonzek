@@ -24,7 +24,7 @@ My name is Reni Delonzek, I love technology and I am currently working with Flut
 
 
 **Portifólio**  
-Principais sistemas contruídos
+Principais sistemas construídos
 
 **Inspeção e Agendamento**
 - Aplicativo contruído de maneira solidária no início da pandemia, auxiliando a área de saúde na triagem e controle do fluxo de pessoas, além de oferecer maneiras de agendamento de horários em estabelecimentos comerciais.
